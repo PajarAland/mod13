@@ -1,0 +1,14 @@
+D:\mod13_1302223146\mod13_1302223146\bin\Debug\net8.0\mod13_1302223146.exe
+D:\mod13_1302223146\mod13_1302223146\bin\Debug\net8.0\mod13_1302223146.deps.json
+D:\mod13_1302223146\mod13_1302223146\bin\Debug\net8.0\mod13_1302223146.runtimeconfig.json
+D:\mod13_1302223146\mod13_1302223146\bin\Debug\net8.0\mod13_1302223146.dll
+D:\mod13_1302223146\mod13_1302223146\bin\Debug\net8.0\mod13_1302223146.pdb
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\mod13_1302223146.GeneratedMSBuildEditorConfig.editorconfig
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\mod13_1302223146.AssemblyInfoInputs.cache
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\mod13_1302223146.AssemblyInfo.cs
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\mod13_1302223146.csproj.CoreCompileInputs.cache
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\mod13_1302223146.dll
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\refint\mod13_1302223146.dll
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\mod13_1302223146.pdb
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\mod13_1302223146.genruntimeconfig.cache
+D:\mod13_1302223146\mod13_1302223146\obj\Debug\net8.0\ref\mod13_1302223146.dll
